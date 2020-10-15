@@ -1,5 +1,7 @@
-### Hi there 👋
+Hello all! 
+I'm Karem with an "m" and I love 🎶, 💻, ☕️ and 🌱
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=kceron)
 <!--
 **kceron/kceron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
