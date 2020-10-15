@@ -1,7 +1,7 @@
 Hello all! 
 I'm Karem with an "m" and I love 🎶, 💻, ☕️ and 🌱
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kceron) <img src="https://res.cloudinary.com/supercloudname/image/upload/v1602786434/octocat_orxgbe.png" alt="Octocat" width="180" height="180">
+![Github stats](https://github-readme-stats.vercel.app/api?username=kceron) <img src="https://res.cloudinary.com/supercloudname/image/upload/v1602786434/octocat_orxgbe.png" alt="Octocat" width="190" height="190">
 
 
 
