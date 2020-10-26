@@ -2,7 +2,7 @@ Hello all!
 
 I am a Full-Stack Developer with experience building apps in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. Currently located in NYC.
 
-<img src="https://res.cloudinary.com/supercloudname/image/upload/v1603746807/Screen_Shot_2020-10-26_at_5.12.50_PM_hdwjks.png" alt="working space" width="1000" height="300">
+<img src="https://res.cloudinary.com/supercloudname/image/upload/v1603746807/Screen_Shot_2020-10-26_at_5.12.50_PM_hdwjks.png" alt="working space" width="1000" height="250">
 
 <!--
 **kceron/kceron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
