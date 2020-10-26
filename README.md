@@ -1,5 +1,6 @@
 Hello all! 
-I am a Full-Stack Developer with experience building apps in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. 
+
+I am a Full-Stack Developer with experience building apps in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. Currently located in NYC.
 
 
 <!--
