@@ -1,19 +1,13 @@
 Hello all! 
 I am a Full-Stack Developer with experience building apps in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kceron) <img src="https://res.cloudinary.com/supercloudname/image/upload/v1602787552/Screen_Shot_2020-10-15_at_2.45.33_PM_sfx2cl.png" alt="Octocat" width="220" height="190">
-
-
-
-
-
 
 <!--
 **kceron/kceron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my "Pronto Meal" App
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
