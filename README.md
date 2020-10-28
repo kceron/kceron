@@ -2,7 +2,15 @@
 
 <p align="center">I am a Full-Stack Developer with experience building web applications in React, Redux, JavaScript, Ruby on Rails and PostgreSQL. Currently located in NYC.</p>
 
-<img src="https://res.cloudinary.com/supercloudname/image/upload/v1603746807/Screen_Shot_2020-10-26_at_5.12.50_PM_hdwjks.png" alt="working space" width="1000" height="250">
+<h4 align="center">Contact: </h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/karem-ceron/" rel="nofollow">
+    <img align="center" alt="linkedin" height="30" width="30" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" style"max-width:100%;">
+  </a>
+  <a href="https://twitter.com/karemmm_" rel="nofollow">
+    <img align="center" alt="twitter" height="30" width="30" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" style"max-width:100%;">
+  </a>
+
 
 <!--
 **kceron/kceron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
