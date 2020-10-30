@@ -7,10 +7,12 @@
   <a target="_blank" href="https://www.linkedin.com/in/karem-ceron/" rel="noopener">
     <img align="center" alt="linkedin" height="30" width="30" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" style"max-width:100%;">
   </a>
+ </p>
+<p align="center">
   <a target="_blank" href="https://twitter.com/karemmm_" rel="noopener">
     <img align="center" alt="twitter" height="30" width="30" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" style"max-width:100%;">
   </a>
-  </p>
+</p>
 
 
 <!--
