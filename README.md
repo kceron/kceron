@@ -10,6 +10,7 @@
   <a target="_blank" href="https://twitter.com/karemmm_" rel="nofollow">
     <img align="center" alt="twitter" height="30" width="30" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" style"max-width:100%;">
   </a>
+  </p>
 
 
 <!--
