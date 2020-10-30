@@ -4,10 +4,10 @@
 
 <h4 align="center">Contact: </h4>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/karem-ceron/" rel="nofollow">
+  <a target="_blank" href="https://www.linkedin.com/in/karem-ceron/" >
     <img align="center" alt="linkedin" height="30" width="30" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" style"max-width:100%;">
   </a>
-  <a target="_blank" href="https://twitter.com/karemmm_" rel="nofollow">
+  <a target="_blank" href="https://twitter.com/karemmm_" >
     <img align="center" alt="twitter" height="30" width="30" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" style"max-width:100%;">
   </a>
   </p>
