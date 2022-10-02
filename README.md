@@ -1,11 +1,11 @@
 <h1 align="center">Hello all 🙂</h1>
 
-<p align="center">I am a Full-Stack Developer with experience building web applications in React, JavaScript, RTK state management, Ruby on Rails, SQL . I love working Frontend. Currently located in NYC.</p>
-
+<p align="center">I am a Full-Stack Developer with experience building web applications in React, RTK state management, JavaScript, Ruby on Rails, SQL.</p>
+<p align="center">I love working Frontend as well as UI/UX design. Currently located in NYC.</p>
+  
 <h4 align="center">Contact: </h4>
 <p align="center"> 
-<a target="_blank" href="https://www.linkedin.com/in/karem-ceron/" rel="noopener">
-</a>
+<a href="https://www.linkedin.com/in/karem-ceron/" target="_blank" > LinkedIn </a>
 </p>
 
 
