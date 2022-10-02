@@ -1,6 +1,6 @@
 <h1 align="center">Hello all!</h1>
 
-<p align="center">I am a Full-Stack Developer with experience building web applications in React, JavaScript, Ruby on Rails, SQL and PostgreSQL. Currently located in NYC.</p>
+<p align="center">I am a Full-Stack Developer with experience building web applications in React, JavaScript, Ruby on Rails, SQL. Love working Frontend. Currently located in NYC.</p>
 
 <h4 align="center">Contact: </h4>
 <p align="center">
