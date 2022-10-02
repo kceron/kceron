@@ -1,4 +1,4 @@
-<h1 align="center">Hello all!</h1>
+<h1 align="center">Hello all 🙂</h1>
 
 <p align="center">I am a Full-Stack Developer with experience building web applications in React, JavaScript, RTK state management, Ruby on Rails, SQL . I love working Frontend. Currently located in NYC.</p>
 
