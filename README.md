@@ -1,6 +1,6 @@
 <h1 align="center">Hello all 🙂</h1>
 
-<p align="center">I am a Full-Stack Developer with experience building web applications in React, RTK state management, JavaScript, CSS, SCSS, Ruby on Rails, SQL.</p>
+<p align="center">I am a Full-Stack Developer with experience building web applications utilizing React, RTK state management, JavaScript, CSS, SCSS, Ruby on Rails and SQL.</p>
 <p align="center">I love working Frontend as well as UI/UX design. Currently located in NYC.</p>
   
 <h4 align="center">Contact: </h4>
