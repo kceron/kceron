@@ -1,15 +1,12 @@
 <h1 align="center">Hello all!</h1>
 
-<p align="center">I am a Full-Stack Developer with experience building web applications in React, JavaScript, Ruby on Rails, SQL. Love working Frontend. Currently located in NYC.</p>
+<p align="center">I am a Full-Stack Developer with experience building web applications in React, JavaScript, RTK state management, Ruby on Rails, SQL . Love working Frontend. Currently located in NYC.</p>
 
 <h4 align="center">Contact: </h4>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/karem-ceron/" rel="noopener">
+<!--   <a target="_blank" href="https://www.linkedin.com/in/karem-ceron/" rel="noopener"> -->
 <!--     <img align="center" alt="linkedin" height="30" width="30" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg" style"max-width:100%;"> -->
-  </a>
-<!--   <a target="_blank" href="https://twitter.com/karemmm_" rel="noopener">
-    <img align="center" alt="twitter" height="30" width="30" src="https://devicon.dev/devicon.git/icons/twitter/twitter-original.svg" style"max-width:100%;">
-  </a> -->
+<!--   </a> -->
 </p>
 
 
